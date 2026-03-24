@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @TheFaultyKey
+/src/backend/database.py      @TheFaultyKey
+/src/backend/routers/auth.py  @TheFaultyKey
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @TheFaultyKey
